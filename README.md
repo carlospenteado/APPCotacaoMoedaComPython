@@ -12,10 +12,10 @@ O BackEnd foi realizado em linguagem Python a partir do arquivo Main.py, e o Fro
 ## Tela FrontEnd
 ![TelaFrontEnd](TelaFrontEndCotacaoMoedas.jpg)
 
-## Arquivo BackEnd
+## Arquivo Main.py (BackEnd)
 ![BackEnd](BackEndCotacaoMoeda.jpg)
 
-## Arquivo FrontEnd
+## Arquivo tela.kv (FrontEnd)
 ![FrontEnd](FrontEndCotacaoMoeda.jpg)
 
 ## Site de origem da API

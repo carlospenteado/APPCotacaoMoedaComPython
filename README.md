@@ -10,7 +10,7 @@ O aplicativo consiste em um projeto Python, que retorna informações da interne
 O BackEnd foi realizado em linguagem Python a partir do arquivo Main.py, e o FronEnd com seu arquivo tela.kv realizado também em linguagem Python com uso da biblioteca Kivy.
 
 ## Tela FrontEnd
-![TelaFrontEnd](TelaFrontEndCotacaoMoeda.jpg)
+![TelaFrontEnd](TelaFrontEndCotacaoMoedas.jpg)
 
 ## Arquivo BackEnd
 ![BackEnd](BackEndCotacaoMoeda.jpg)

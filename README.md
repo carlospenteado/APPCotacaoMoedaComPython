@@ -4,7 +4,7 @@
 
 # Sobre o projeto
 
-Este projeto aborda a criação de aplicativos e programas com Python construído a partir do modelo da aula **Como Criar Aplicativos e Programas com Python - Introdução ao Kivy**, este trabalho contido no youtube, e organizado pelo canal [HastagProgramação](https://www.youtube.com/watch?v=NkBcU8biV4s&list=LL&index=8).
+Este projeto aborda a criação de aplicativos e programas com Python construído a partir do modelo da aula **Como Criar Aplicativos e Programas com Python - Introdução ao Kivy**, este trabalho contido no youtube, e organizado pelo canal [HastagProgramação](https://www.youtube.com/watch?v=NkBcU8biV4s&list=LL&index=8 "Video do Canal Hastag").
 
 O aplicativo consiste em um projeto Python, que retorna informações da internet através de uma API, com o uso da categoria (GET) para listagem dos dados vindos da internet a partir do site (https://docs.awesomeapi.com.br/api-de-moedas), sendo responsavel pela cotação das moedas e esta API retorna a informação da cotação de uma determinadada moeda (Bitcoin, Ethereum, Dollar, Euro e etc...).
 O BackEnd foi realizado em linguagem Python a partir do arquivo Main.py, e o FronEnd com seu arquivo tela.kv realizado também em linguagem Python com uso da biblioteca Kivy.
@@ -31,7 +31,7 @@ O BackEnd foi realizado em linguagem Python a partir do arquivo Main.py, e o Fro
 - Kivy (Biblioteca Python)
 
 # Interpretador / depurador utilizado (Python)
-- Pycharm
+- PyCharm
 
 
 # Autor
